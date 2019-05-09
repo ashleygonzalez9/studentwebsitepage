@@ -33,3 +33,11 @@ function trinasPage (el) {
 function studentPage(el) { 
 	document.location.href = "https://ashleygonzalez9.github.io/studentwebsitepage/student_websites.html ";
 } 
+
+function skillsPage(el) { 
+	document.location.href = "https://ashleygonzalez9.github.io/essential_skills/Essential_Skills.html  ";
+} 
+
+function robotsPage(el) { 
+	document.location.href = "https://carolinaalfaro.github.io/robot/robots.html ";
+} 
